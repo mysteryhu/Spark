@@ -1,0 +1,2 @@
+SPARK DAEMON JAVA OPTS
+Dspark deploy zookeeper dir
